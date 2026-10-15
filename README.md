@@ -1,14 +1,15 @@
 ![Suyash Patil — AI, Backend, and Data Systems](assets/banner.svg)
 
-<img align="right" src="assets/portrait.jpg" alt="Suyash Patil" width="155">
+<div align="center">
+  <img src="assets/portrait.jpg" alt="Portrait of Suyash Patil" width="210" height="210">
 
-# Hi, I’m Suyash 👋
+  <h2>Hi, I’m Suyash.</h2>
+  <p><strong>AI &amp; Python Backend Engineer · Nashik, India</strong></p>
+  <p>I build practical AI applications, reliable backend services,<br>and data systems with validation and reproducibility at their core.</p>
+  <p><a href="https://suyashp2643.github.io/"><strong>Explore my portfolio ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/suyashp2643?tab=repositories">Browse my repositories</a></p>
+</div>
 
-**AI & Python Backend Engineer · Nashik, India**
-
-I build Python backend services, practical AI applications, and data systems with a focus on validation, reproducibility, and clear business workflows.
-
-[Portfolio](https://suyashp2643.github.io/) · [Explore my repositories](https://github.com/suyashp2643?tab=repositories)
+---
 
 ### Selected engineering work
 
@@ -26,7 +27,7 @@ Python and SQL tooling for investigating data quality, calculating portfolio ris
 - Immutable snapshots and SHA-256 hashes preserve input provenance.
 - Historical VaR and expected shortfall, rolling backtesting, and hypothetical stress scenarios.
 - Correction approvals bind parent and proposed input hashes.
-- Public repository link to be added when available.
+- Source code remains private; the portfolio includes a project overview.
 
 **AI Revenue Brain — Real Estate Lead Workflows**  
 A private project combining lead context, property matching, next actions, and pipeline analytics.
