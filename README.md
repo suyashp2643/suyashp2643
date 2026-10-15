@@ -11,7 +11,7 @@
 
 ### Selected engineering work
 
-**RiskLens — Portfolio Risk Investigation & Replay**  
+**[RiskLens — Portfolio Risk Investigation & Replay](https://suyashp2643.github.io/#risklens)**  
 Python and SQL tooling for investigating data quality, calculating portfolio risk, and reproducing saved reports.
 
 - Immutable snapshots and SHA-256 hashes preserve input provenance.
@@ -19,7 +19,7 @@ Python and SQL tooling for investigating data quality, calculating portfolio ris
 - Correction approvals bind parent and proposed input hashes.
 - Source code remains private; the portfolio includes a project overview.
 
-**AI Revenue Brain — Real Estate Lead Workflows**  
+**[AI Revenue Brain — Real Estate Lead Workflows](https://suyashp2643.github.io/#revenue)**  
 A private project combining lead context, property matching, next actions, and pipeline analytics.
 
 - FastAPI, PostgreSQL, Next.js, and Redis.
