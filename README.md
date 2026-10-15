@@ -4,7 +4,7 @@
   <h2>Hi, I’m Suyash.</h2>
   <p><strong>AI &amp; Python Backend Engineer · India</strong></p>
   <p>I build practical AI applications, reliable backend services,<br>and data systems with validation and reproducibility at their core.</p>
-  <p><a href="https://suyashp2643.github.io/"><strong>Explore my portfolio ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/suyashp2643?tab=repositories">Browse my repositories</a></p>
+  <p><a href="https://suyashp2643.github.io/"><strong>Explore my portfolio ↗</strong></a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/suyash-patil2604">LinkedIn</a> &nbsp; · &nbsp; <a href="mailto:suyash.p346@gmail.com">Email me</a> &nbsp; · &nbsp; <a href="https://github.com/suyashp2643?tab=repositories">Repositories</a></p>
 </div>
 
 ---
@@ -51,4 +51,4 @@ B.E. in Artificial Intelligence & Data Science, DY Patil College of Engineering,
 
 I’m open to **AI engineering and Python backend roles**, remote work, relocation, and freelance projects involving business applications, APIs, and workflow automation.
 
-Explore the linked Mental Health Chatbot repository for its notebooks, setup instructions, and source acknowledgements.
+Contact me at **[suyash.p346@gmail.com](mailto:suyash.p346@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/suyash-patil2604)**.
