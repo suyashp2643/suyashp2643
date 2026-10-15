@@ -2,53 +2,82 @@
 
 <div align="center">
   <h2>Hi, I’m Suyash.</h2>
-  <p><strong>AI &amp; Python Backend Engineer · India</strong></p>
-  <p>I build practical AI applications, reliable backend services,<br>and data systems with validation and reproducibility at their core.</p>
-  <p><a href="https://suyashp2643.github.io/"><strong>Explore my portfolio ↗</strong></a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/suyash-patil2604">LinkedIn</a> &nbsp; · &nbsp; <a href="mailto:suyash.p346@gmail.com">Email me</a> &nbsp; · &nbsp; <a href="https://github.com/suyashp2643?tab=repositories">Repositories</a></p>
+  <p><strong>Python Backend &amp; AI Engineer · India</strong></p>
+  <p>I build practical AI applications, backend services, and data workflows.<br>I’m especially interested in systems that are easier to validate, investigate, and maintain.</p>
+  <p><a href="https://suyashp2643.github.io/"><strong>Portfolio ↗</strong></a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/suyash-patil2604">LinkedIn</a> &nbsp; / &nbsp; <a href="mailto:suyash.p346@gmail.com">Email</a></p>
+  <p><sub>OPEN TO ENGINEERING ROLES · REMOTE &amp; RELOCATION · FREELANCE PROJECTS</sub></p>
 </div>
 
 ---
 
-### Selected engineering work
+## Selected work
 
-**[RiskLens — Portfolio Risk Investigation & Replay](https://suyashp2643.github.io/#risklens)**  
+### 01 · [RiskLens](projects/risklens.md)
+**Portfolio risk investigation & replay**
+
 Python and SQL tooling for investigating data quality, calculating portfolio risk, and reproducing saved reports.
 
 - Immutable snapshots and SHA-256 hashes preserve input provenance.
-- Historical VaR and expected shortfall, rolling backtesting, and hypothetical stress scenarios.
+- Historical VaR, expected shortfall, rolling backtesting, and hypothetical stress scenarios.
 - Correction approvals bind parent and proposed input hashes.
-- Source code remains private; the portfolio includes a project overview.
 
-**[AI Revenue Brain — Real Estate Lead Workflows](https://suyashp2643.github.io/#revenue)**  
+`Python` `PostgreSQL` `Pandas` `SQLAlchemy` `PyTest`
+
+[Technical overview ↗](projects/risklens.md) · [Portfolio case study](https://suyashp2643.github.io/#risklens) · **Private source**
+
+---
+
+### 02 · [AI Revenue Brain](projects/revenue-brain.md)
+**Real estate lead workflows**
+
 A private project combining lead context, property matching, next actions, and pipeline analytics.
 
-- FastAPI, PostgreSQL, Next.js, and Redis.
-- Conversation and site-visit briefs, dormant lead analysis, and objection analytics.
+- Conversation and site-visit briefs.
+- Dormant lead analysis and objection analytics.
 
-**[Mental Health Chatbot](https://github.com/suyashp2643/Mental-Health-Chatbot)**  
-An NLP project exploring conversational responses to mental health FAQs.
+`FastAPI` `PostgreSQL` `Next.js` `Redis`
 
-- Explores rule-based, retrieval-based, and generative chatbot approaches.
+[Technical overview ↗](projects/revenue-brain.md) · [Portfolio case study](https://suyashp2643.github.io/#revenue) · **Private source**
+
+---
+
+### 03 · [Mental Health Chatbot](https://github.com/suyashp2643/Mental-Health-Chatbot)
+**Exploring conversational NLP**
+
+An educational project exploring rule-based, retrieval-based, and generative responses to mental health FAQs.
+
 - Repository examples cover TF-IDF, cosine similarity, and neural sequence models.
-- An educational project; no clinical effectiveness is claimed.
+- See the repository for dataset references, original research context, and source acknowledgements.
 
-### Tools I work with
+`Python` `NLP` `TF-IDF` `Sequence models`
 
-| Area | Technologies |
+[View repository ↗](https://github.com/suyashp2643/Mental-Health-Chatbot) · [Technical overview](projects/mental-health-chatbot.md)
+
+---
+
+## Engineering toolkit
+
+| Focus | Tools |
 | --- | --- |
-| Languages | Python, SQL, JavaScript, TypeScript |
-| Backend | FastAPI, REST APIs, SQLAlchemy, Alembic |
-| Data | PostgreSQL, Pandas, data validation, ETL |
-| Frontend | React, Next.js, Tailwind CSS |
-| AI | LLM integration, retrieval, provider abstraction |
-| Engineering | PyTest, Git, Linux, Redis |
+| Backend services | Python · FastAPI · REST APIs · SQLAlchemy · Alembic |
+| Data & databases | SQL · PostgreSQL · Pandas · ETL · Redis |
+| Application interfaces | JavaScript · TypeScript · React · Next.js · Tailwind CSS |
+| Applied AI | LLM integration · Retrieval · Provider abstraction |
+| Development | PyTest · Git · Linux |
 
-### Background
+## Background
 
-B.E. in Artificial Intelligence & Data Science, DY Patil College of Engineering, Akurdi. Internship experience in AI/ML at Tekhnologia Innovations and web development at Prodigy Infotech.
+**B.E. · Artificial Intelligence & Data Science**  
+DY Patil College of Engineering, Akurdi
 
-### Let’s work together
+**Internship experience**  
+AI/ML — Tekhnologia Innovations  
+Web development — Prodigy Infotech
 
-I’m open to **AI engineering and Python backend roles**, remote work, relocation, and freelance projects involving business applications, APIs, and workflow automation.
+## Let’s connect
 
-Contact me at **[suyash.p346@gmail.com](mailto:suyash.p346@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/suyash-patil2604)**.
+I’m open to Python backend and AI engineering roles, along with freelance work on business applications, APIs, and automation.
+
+**[suyash.p346@gmail.com](mailto:suyash.p346@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/suyash-patil2604)** · **[Portfolio](https://suyashp2643.github.io/)**
+
+<sub>Private projects are presented through public overviews; their implementation code remains private.</sub>
