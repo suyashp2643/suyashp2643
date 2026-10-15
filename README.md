@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>Hi, I’m Suyash.</h2>
-  <p><strong>AI &amp; Python Backend Engineer · Nashik, India</strong></p>
+  <p><strong>AI &amp; Python Backend Engineer · India</strong></p>
   <p>I build practical AI applications, reliable backend services,<br>and data systems with validation and reproducibility at their core.</p>
   <p><a href="https://suyashp2643.github.io/"><strong>Explore my portfolio ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/suyashp2643?tab=repositories">Browse my repositories</a></p>
 </div>
