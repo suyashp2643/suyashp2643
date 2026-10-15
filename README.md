@@ -1,8 +1,6 @@
 ![Suyash Patil — AI, Backend, and Data Systems](assets/banner.svg)
 
 <div align="center">
-  <img src="assets/portrait.jpg" alt="Portrait of Suyash Patil" width="210" height="210">
-
   <h2>Hi, I’m Suyash.</h2>
   <p><strong>AI &amp; Python Backend Engineer · Nashik, India</strong></p>
   <p>I build practical AI applications, reliable backend services,<br>and data systems with validation and reproducibility at their core.</p>
