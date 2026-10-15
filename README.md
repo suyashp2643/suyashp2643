@@ -11,14 +11,6 @@
 
 ### Selected engineering work
 
-**[AI Receptionist](https://github.com/suyashp2643/ai-receptionist)**  
-A configurable, multi-tenant platform for business enquiries, knowledge retrieval, appointment requests, and human handoff.
-
-- FastAPI backend, PostgreSQL, SQLAlchemy, and a Next.js interface.
-- Embeddable streaming widget, browser-native voice, and an operations dashboard.
-- Tenant-scoped data access, role-based permissions, and transactional outbox integrations.
-- Deterministic mock AI supports development without paid API credentials; real provider adapters require configuration.
-
 **RiskLens — Portfolio Risk Investigation & Replay**  
 Python and SQL tooling for investigating data quality, calculating portfolio risk, and reproducing saved reports.
 
@@ -32,6 +24,13 @@ A private project combining lead context, property matching, next actions, and p
 
 - FastAPI, PostgreSQL, Next.js, and Redis.
 - Conversation and site-visit briefs, dormant lead analysis, and objection analytics.
+
+**[Mental Health Chatbot](https://github.com/suyashp2643/Mental-Health-Chatbot)**  
+An NLP project exploring conversational responses to mental health FAQs.
+
+- Explores rule-based, retrieval-based, and generative chatbot approaches.
+- Repository examples cover TF-IDF, cosine similarity, and neural sequence models.
+- An educational project; no clinical effectiveness is claimed.
 
 ### Tools I work with
 
@@ -52,4 +51,4 @@ B.E. in Artificial Intelligence & Data Science, DY Patil College of Engineering,
 
 I’m open to **AI engineering and Python backend roles**, remote work, relocation, and freelance projects involving business applications, APIs, and workflow automation.
 
-Explore the linked AI Receptionist repository for architecture, security notes, and local setup instructions.
+Explore the linked Mental Health Chatbot repository for its notebooks, setup instructions, and source acknowledgements.
